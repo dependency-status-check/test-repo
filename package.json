@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/dependency-status-check/test-repo#readme",
   "dependencies": {
-    "debug": "^4.3.4",
+    "debug": "^4.4.3",
     "lodash": "^4.17.21",
     "antd": "^5.21.4",
     "sonarqube-scanner": "^2.9.1"
@@ -54,12 +54,12 @@
     "conventional-changelog-conventionalcommits": "^7.0.2",
     "eslint": "^8.23.0",
     "eslint-config-airbnb-base": "^15.0.0",
-    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-import": "^2.32.0",
     "eslint-plugin-jest": "^27.0.0",
     "jest": "^29.5.0",
     "jest-cli": "^29.0.1",
     "npm-check-updates": "^16.0.6",
     "semantic-release": "^23.0.0",
-    "simple-git-hooks": "^2.8.0"
+    "simple-git-hooks": "^2.13.1"
   }
 }
