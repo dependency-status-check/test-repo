@@ -46,7 +46,7 @@
   },
   "devDependencies": {
     "eslint-config-prettier": "8.10.1",
-    "eslint-plugin-prettier": "4.2.2",
+    "eslint-plugin-prettier": "5.5.4",
     "synckit": "0.11.9",
     "@pkgr/core": "0.2.8",
     "napi-postinstall": "0.3.1",
