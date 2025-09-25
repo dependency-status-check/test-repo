@@ -45,6 +45,11 @@
     "branch": "main"
   },
   "devDependencies": {
+    "eslint-config-prettier": "10.1.8",
+    "eslint-plugin-prettier": "4.2.4",
+    "synckit": "0.12.0",
+    "@pkgr/core": "0.2.9",
+    "napi-postinstall": "0.3.2",
     "@jest/globals": "^30.1.2",
     "@semantic-release/changelog": "^6.0.3",
     "@semantic-release/commit-analyzer": "^13.0.1",
