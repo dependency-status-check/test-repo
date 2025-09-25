@@ -47,9 +47,9 @@
   "devDependencies": {
     "eslint-config-prettier": "8.10.1",
     "eslint-plugin-prettier": "4.2.2",
-    "synckit": "0.11.9",
-    "@pkgr/core": "0.2.8",
-    "napi-postinstall": "0.3.1",
+    "synckit": "0.11.11",
+    "@pkgr/core": "0.3.5",
+    "napi-postinstall": "0.3.3",
     "@jest/globals": "^30.1.2",
     "@semantic-release/changelog": "^6.0.3",
     "@semantic-release/commit-analyzer": "^13.0.1",
